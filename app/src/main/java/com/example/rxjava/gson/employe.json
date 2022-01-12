@@ -1,0 +1,19 @@
+{
+  "address": {
+    "city": "mumbai",
+    "country": "india"
+  },
+  "age": 1,
+  "familyMember": [
+    {
+      "age": "23",
+      "role": "wife"
+    },
+    {
+      "age": "5",
+      "role": "daughter"
+    }
+  ],
+  "firstName": "hello",
+  "mail": "hello@mail"
+}
